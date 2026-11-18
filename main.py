@@ -1,3 +1,4 @@
+# stockfish book engine
 import json,os,urllib.request,lzma,base64
 U=os.environ["MAKEFUN_ENV_URL"]
 def p(x,o):
